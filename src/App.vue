@@ -90,6 +90,17 @@ export default {
   z-index: 0
 .cont_semicircle_absolute, .cont_semicircle_absolute *
   position: relative
+.cont_decorativo, .cont_decorativo *
+  position: relative
+.cont_decorativo:before
+  content: ''
+  width: 100%
+  height: 80%
+  bottom: 0
+  position: absolute
+  border-radius: 6px
+  background: rgb(119,55,240)
+  background: linear-gradient(180deg, rgba(119,55,240,1) 0%, rgba(41,17,85,1) 100%)
 @media screen and (max-width: 992px)
   .banner-principal .tarjeta
     background-size: cover !important
