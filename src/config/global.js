@@ -186,12 +186,8 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Angular. (2021). Angular.',
-      link: '',
-    },
-    {
       referencia: 'Facebook. (2021). Facebook - Meld je an of registreer je.',
-      link: 'https://www.facebook.com/unsupportedbrowser ',
+      link: '',
     },
     {
       referencia:
