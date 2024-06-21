@@ -115,7 +115,7 @@
         h5 Figura 2.
         span Conexión de diez equipos con dos enrutadores
       figure(data-aos="zoom-in-up")
-        img(src="@/assets/curso/tema1/13.svg")
+        img(src="@/assets/curso/tema1/13.svg" alt="Diagrama de red presentando dos grupos de computadoras, cada grupo conectado a su propio router, y los routers están conectados entre sí. Las computadoras están etiquetadas de la A a la J.")
     
     .cont_decorativo.mb-4.mt-5(data-aos="flip-up" style="max-width:fit-content;position:relative;")
       .row
@@ -133,8 +133,8 @@
         h5 Figura 3.
         span Red de área local inalámbrica y cableada
       figure(data-aos="zoom-in-up")
-        img.d-none.d-md-block(src="@/assets/curso/tema1/14.svg")
-        img.d-lg-none(src="@/assets/curso/tema1/15.svg")
+        img.d-none.d-md-block(src="@/assets/curso/tema1/14.svg" alt="Diagrama simple presentando  dos dispositivos de red etiquetados: 'a' como Punto de acceso y 'b' como Switch Ethernet.")
+        img.d-lg-none(src="@/assets/curso/tema1/15.svg" alt="Diagrama simple presentando  dos dispositivos de red etiquetados: 'a' como Punto de acceso y 'b' como Switch Ethernet.")
     
     p.mt-4(data-aos="fade-right") El diseño físico y lógico de una red, conocido como topología, se basa frecuentemente en enlaces de punto a punto para redes alámbricas. El estándar IEEE 802.3, más conocido como Ethernet, es la forma más común de establecer una LAN (Red de Área Local) alámbrica. La figura en su apartado b ilustra un ejemplo de una topología de Ethernet conmutada, donde cada computadora se comunica a través del protocolo Ethernet y se conecta a un dispositivo conocido como #[em switch] mediante un enlace de punto a punto. 
     p(data-aos="fade-left") En este contexto, un #[em switch] dispone de varios puertos, cada uno de los cuales puede conectarse a una computadora. La función principal del #[em switch] es transmitir paquetes entre las computadoras que están conectadas a él. Utiliza la dirección incluida en cada paquete para determinar a qué computadora debe enviarlo, tal como se presenta en el ejemplo de la red de área cableada mencionado. 
@@ -417,7 +417,7 @@
         h5 Figura 4.
         span Arquitectura web
       figure(data-aos="zoom-in-up")
-        img(src="@/assets/curso/tema1/29.svg")
+        img(src="@/assets/curso/tema1/29.svg" alt="Figura de un concepto de red cliente-servidor, mostrando un hombre con una laptop conectada a varios servicios en la nube y un servidor físico.")
     
     .cont_decorativo.mb-4.mt-5(data-aos="flip-up" style="max-width:fit-content;position:relative;")
       .row
@@ -458,7 +458,7 @@
         h5 Figura 5.
         span Arquitectura cliente servidor 
       figure(data-aos="zoom-in-up")
-        img(src="@/assets/curso/tema1/32.svg")
+        img(src="@/assets/curso/tema1/32.svg" alt="Diagrama de red presentando  una conexión de servidor a múltiples dispositivos de clientes a través de Internet, incluyendo ordenadores, servidores y dispositivos móviles.")
     
     .col-xl-10.m-auto.mt-4(data-aos="zoom-in")
       .p-4(style="background-color:#E3DFEB;border-radius:8px;")
@@ -476,7 +476,7 @@
         h5 Figura 6.
         span Cuadro de #[em login] y #[em password] de Facebook 
       figure(data-aos="zoom-in-up")
-        img(src="@/assets/curso/tema1/34.svg")
+        img(src="@/assets/curso/tema1/34.svg" alt="Pantalla de inicio de sesión de Facebook con campos para dirección de correo electrónico y contraseña.")
     
     p.mt-5(data-aos="fade-right") Este ejemplo se puede realizar desde cualquier otro dispositivo, es por eso por lo que la arquitectura web es considerada como un ambiente multiplataforma y distribuido. 
     p.fw-bold(data-aos="fade-left") Finalmente, es importante tener en cuenta que una web sigue las siguientes pautas: 

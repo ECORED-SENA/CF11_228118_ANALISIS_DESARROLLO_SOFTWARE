@@ -214,7 +214,7 @@
     
       .row
         .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
-          p Al igual que los #[em frameworks] del #[em front-end], los #[em frameworks] del #[em back-end] proporcionan a los desarrolladores herramientas para realizar su trabajo de manera más eficiente, segura y robusta. Estos frameworks ofrecen estructuras predefinidas y componentes reutilizables que aceleran el proceso de desarrollo, ayudando a manejar aspectos complejos como la conexión con bases de datos, la gestión de sesiones, el procesamiento de transacciones y la seguridad. 
+          p Al igual que los #[em frameworks] del #[em front-end], los #[em frameworks] del #[em back-end] proporcionan a los desarrolladores herramientas para realizar su trabajo de manera más eficiente, segura y robusta. Estos #[em frameworks] ofrecen estructuras predefinidas y componentes reutilizables que aceleran el proceso de desarrollo, ayudando a manejar aspectos complejos como la conexión con bases de datos, la gestión de sesiones, el procesamiento de transacciones y la seguridad. 
           p Una de las empresas de desarrollo web más destacadas de Canadá, Monocubed, señala la importancia de estos #[em frameworks] en el desarrollo actual. Según Mistry (2021), los #[em frameworks] de #[em back-end] que están marcando tendencia facilitan significativamente la creación de aplicaciones complejas y escalables.  Estos #[em frameworks] no solo mejoran la eficiencia del desarrollo sino que también aseguran que las aplicaciones puedan adaptarse y responder a las exigencias del mercado moderno. 
         .col-lg-4(data-aos="fade-left")
           figure.m-auto.col-9.col-md-8.col-lg-12
@@ -225,17 +225,17 @@
           .h-100.p-4(style="background-color:#F2E5FD;border-radius:23px;")
             figure.text-center
               img(src="@/assets/curso/tema2/19.svg" style="max-width:120px;display:inline;")
-            p.mt-4 Este framework tiene una excelente estructura y es capaz de adaptarse a grupos grandes debido a la efectividad de sus recursos, como la llamada #[em toolbox]. Basado en PHP, sigue una sintaxis elegante y expresiva. Permite a los desarrolladores web ser flexibles y creativos, manejando los detalles de fondo a diferencia de otros #[em frameworks]. 
+            p.mt-4 Este #[em framework] tiene una excelente estructura y es capaz de adaptarse a grupos grandes debido a la efectividad de sus recursos, como la llamada #[em toolbox]. Basado en PHP, sigue una sintaxis elegante y expresiva. Permite a los desarrolladores web ser flexibles y creativos, manejando los detalles de fondo a diferencia de otros #[em frameworks]. 
         .col-md-8.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in")
           .h-100.p-4(style="background-color:#F2E5FD;border-radius:23px;")
             figure.text-center
               img(src="@/assets/curso/tema2/20.svg" style="max-width:120px;display:inline;")
-            p.mt-4 Framework de alto nivel conocido por su enfoque de ‘baterías incluidas’, lo que significa que incluye casi todo lo que necesitaría cualquier desarrollador. Se utiliza principalmente para el desarrollo de aplicaciones web interactivas a gran escala impulsadas por bases de datos. Es altamente personalizable y escalable, con una amplia comunidad y una importante documentación. 
+            p.mt-4 #[em Framework] de alto nivel conocido por su enfoque de ‘baterías incluidas’, lo que significa que incluye casi todo lo que necesitaría cualquier desarrollador. Se utiliza principalmente para el desarrollo de aplicaciones web interactivas a gran escala impulsadas por bases de datos. Es altamente personalizable y escalable, con una amplia comunidad y una importante documentación. 
         .col-md-8.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in")
           .h-100.p-4(style="background-color:#F2E5FD;border-radius:23px;")
             figure.text-center
               img(src="@/assets/curso/tema2/21.svg" style="max-width:120px;display:inline;")
-            p.mt-4 Escrito en Ruby, este framework es fácil de probar y compilar. Cuenta con el amplio apoyo de una comunidad activa y una gran cantidad de recursos disponibles, lo que lo convierte en una alternativa viable para los principiantes en desarrollo. 
+            p.mt-4 Escrito en Ruby, este #[em framework] es fácil de probar y compilar. Cuenta con el amplio apoyo de una comunidad activa y una gran cantidad de recursos disponibles, lo que lo convierte en una alternativa viable para los principiantes en desarrollo. 
 
 
     
