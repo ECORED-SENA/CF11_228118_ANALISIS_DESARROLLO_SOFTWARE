@@ -9,7 +9,7 @@
     
     .row
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
-        p El desarrollo de aplicaciones y sistemas web ha sido una tendencia predominante en las últimas tres décadas, y sus mejoras han evolucionado en consonancia con las innovaciones en la infraestructura tecnológica que las respalda. Actualmente, las aplicaciones son notablemente más interactivas, rápidas, seguras y fáciles de usar. Un ejemplo de esto es el acceso a sitios web desde dispositivos móviles, la visualización de videos en YouTube, las conversaciones a través de WhatsApp, o el streaming de series en Netflix. Todos estos avances son posibles gracias a una robusta infraestructura de hardware que permite el despliegue no solo de aplicaciones sino también de servicios que se utilizan diariamente. Por ello, es crucial comprender los componentes fundamentales que enriquecen y otorgan rigurosidad a la construcción de este tipo de sistemas. 
+        p El desarrollo de aplicaciones y sistemas web ha sido una tendencia predominante en las últimas tres décadas, y sus mejoras han evolucionado en consonancia con las innovaciones en la infraestructura tecnológica que las respalda. Actualmente, las aplicaciones son notablemente más interactivas, rápidas, seguras y fáciles de usar. Un ejemplo de esto es el acceso a sitios web desde dispositivos móviles, la visualización de videos en YouTube, las conversaciones a través de WhatsApp, o el #[em streaming] de series en Netflix. Todos estos avances son posibles gracias a una #[strong robusta infraestructura de #[em hardware]] que permite el despliegue no solo de aplicaciones sino también de servicios que se utilizan diariamente. Por ello, es crucial comprender los componentes fundamentales que enriquecen y otorgan rigurosidad a la construcción de este tipo de sistemas. 
         figure.d-none.d-md-block
           img(src="@/assets/curso/tema1/1.svg" style="max-width:100px;")
       .col-lg-5(data-aos="fade-left")
@@ -34,7 +34,7 @@
       
       .row(style="position:relative;")
         .col(style="place-self:center;" data-aos="fade-right")
-          p.mb-0 La historia de la internet se remonta a inicios de la década de 1960 con un proyecto de investigación denominado ARPANET, financiado por el ejército de los Estados Unidos. En la década de 1980, se transformó en una infraestructura pública con el apoyo de diversas instituciones del sector público y privado. Las tecnologías que soportan la internet han evolucionado a lo largo del tiempo para satisfacer la creciente demanda de la población, aunque la forma en que funciona ha cambiado poco.
+          p.mb-0 La historia de la internet se remonta a inicios de la década de 1960 con un proyecto de investigación denominado #[strong ARPANET], financiado por el ejército de los Estados Unidos. En la década de 1980, se transformó en una infraestructura pública con el apoyo de diversas instituciones del sector público y privado. Las tecnologías que soportan la internet han evolucionado a lo largo del tiempo para satisfacer la creciente demanda de la población, aunque la forma en que funciona ha cambiado poco.
         .col-auto.d-none.d-md-block(style="place-self:center;" data-aos="fade-left")
           figure
             img(src="@/assets/curso/tema1/4.svg")
@@ -56,7 +56,7 @@
           .col.pe-4(style="place-self:end;")
             h3.text-white.mb-0.pb-2 #[em Hardware] de red 
       
-      p(data-aos="fade-right" style="position:relative;") Cuando dos computadoras necesitan comunicarse, pueden vincularse mediante medios físicos como el cable Ethernet, o de manera inalámbrica utilizando tecnologías como #[em WiFi], #[em Bluetooth], #[em ZigBee], entre otras. 
+      p(data-aos="fade-right" style="position:relative;") Cuando dos computadoras necesitan comunicarse, pueden vincularse mediante medios físicos como el cable Ethernet, o de manera inalámbrica utilizando tecnologías como WiFi, Bluetooth, ZigBee, entre otras. 
 
       .cont_1_2.mt-5.pb-5.pt-5
         .tarjeta.p-4.p-lg-5.pb-lg-4.bg-white
@@ -64,7 +64,7 @@
             .row
               .col-lg-7.mb-4.mb-lg-0
                 h5(style="color:#8722E2;") Ejemplo de conexión entre dos equipos o terminales 
-                p La mayoría de las computadoras de hoy en día pueden soportar cualquiera de este tipo de conexiones. A continuación, se presenta un ejemplo de conexión vía ethernet entre dos equipos. 
+                p La mayoría de las computadoras de hoy en día pueden soportar cualquiera de este tipo de conexiones. A continuación, se presenta un ejemplo de conexión vía Ethernet entre dos equipos. 
               .col-lg-5
                 figure.m-auto.col-12.col-md-9.col-lg-12
                   img(src='@/assets/curso/tema1/7.svg')
@@ -78,7 +78,7 @@
             .row
               .col-lg-7.mb-4.mb-lg-0
                 h5(style="color:#8722E2;") Ejemplo de conexión de diez equipos con un enrutador 
-                p Por ejemplo, para que el terminal B reciba un mensaje desde el terminal A, este debe enviarlo primero al router, quien a su vez lo remite al ordenador B asegurándose que dicho mensaje no sea entregado a otro ordenador. Una vez incorporado un enrutador al sistema, la red de diez terminales solo requiere diez cables: un conector para cada ordenador y un enrutador con 10 conectores, como se aprecia en la siguiente gráfica. 
+                p Por ejemplo, para que el terminal B reciba un mensaje desde el terminal A, este debe enviarlo primero al #[em router], quien a su vez lo remite al ordenador B asegurándose que dicho mensaje no sea entregado a otro ordenador. Una vez incorporado un enrutador al sistema, la red de diez terminales solo requiere diez cables: un conector para cada ordenador y un enrutador con 10 conectores, como se aprecia en la siguiente gráfica. 
               .col-lg-5
                 figure.m-auto.col-12.col-md-9.col-lg-12
                   img(src='@/assets/curso/tema1/9.svg')
@@ -97,14 +97,14 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/11.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El proceso de conexión entre varios terminales puede ser muy complejo y laborioso. Por ello, para organizar estas conexiones de manera eficiente, cada ordenador en una red está conectado a un dispositivo especializado denominado enrutador o router. Este dispositivo actúa de manera similar a los señalizadores en las estaciones del sistema integrado de transporte público, dirigiendo el tráfico para garantizar que llegues a tu destino correctamente. Así, el router asegura que los mensajes enviados desde un computador o terminal emisor alcancen el destino adecuado.
+            p.mb-0 El proceso de conexión entre varios terminales puede ser muy complejo y laborioso. Por ello, para organizar estas conexiones de manera eficiente, cada ordenador en una red está conectado a un dispositivo especializado denominado enrutador o #[em router]. Este dispositivo actúa de manera similar a los señalizadores en las estaciones del sistema integrado de transporte público, dirigiendo el tráfico para garantizar que llegues a tu destino correctamente. Así, el #[em router] asegura que los mensajes enviados desde un computador o terminal emisor alcancen el destino adecuado.
     
     .col-xl-6.col-lg-10.mt-5.m-auto
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
         h5 Figura 1.
         span Conector para cada ordenador y enrutador con 10 conectores
       figure(data-aos="zoom-in-up")
-        img(src="@/assets/curso/tema1/12.svg")
+        img(src="@/assets/curso/tema1/12.svg" alt="Diagrama de red con un nodo central etiquetado como 'router' y diez computadoras conectadas desde la A hasta la J, dispuestas en círculo alrededor del nodo central.")
     
     p.mt-4(data-aos="fade-right") Al incorporar un enrutador al sistema, una red de diez terminales solo necesitaría diez cables: un conector para cada ordenador y un enrutador equipado con 10 conectores.  
     p.fw-bold(data-aos="fade-left") Ejemplo de conexión de diez equipos con dos enrutadores 
@@ -125,7 +125,7 @@
         .col.pe-4(style="place-self:end;")
           h3.text-white.mb-0.pb-2 Redes de área local LAN 
     
-    p(data-aos="fade-right") Generalmente llamadas LAN (Local Área Networks), son redes de naturaleza privada que operan dentro de un solo establecimiento, como una casa, oficina o fábrica. Las redes LAN se utilizan ampliamente para conectar computadoras personales y electrodomésticos, con el fin de compartir recursos (por ejemplo, impresoras) e intercambiar información. 
+    p(data-aos="fade-right") Generalmente llamadas LAN (#[em Local Area Networks]), son redes de naturaleza privada que operan dentro de un solo establecimiento, como una casa, oficina o fábrica. Las redes LAN se utilizan ampliamente para conectar computadoras personales y electrodomésticos, con el fin de compartir recursos (por ejemplo, impresoras) e intercambiar información. 
     p.fw-bold(data-aos="fade-left") A continuación, se presenta un ejemplo de esta red: 
 
     .col-xl-8.mt-4.m-auto
@@ -169,7 +169,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/18.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La dependencia de nuestras actividades diarias, como enviar correos electrónicos, ver Netflix o recibir indicaciones de navegación, se basa en la interacción continua entre distintos dispositivos. Estos equipos pueden ser de diferentes fabricantes y ubicarse en diversas zonas geográficas. Así, tanto las personas como las plataformas de software que los utilizan pueden emplear distintos lenguajes, tanto humanos como informáticos.
+            p.mb-0 La dependencia de nuestras actividades diarias, como enviar correos electrónicos, ver Netflix o recibir indicaciones de navegación, se basa en la interacción continua entre distintos dispositivos. Estos equipos pueden ser de diferentes fabricantes y ubicarse en diversas zonas geográficas. Así, tanto las personas como las plataformas de #[em software] que los utilizan pueden emplear distintos lenguajes, tanto humanos como informáticos.
     
     p.mt-5(data-aos="fade-right") El blog de #[em Avast Academy] señala que una interacción determinada puede ocurrir entre dos sistemas informáticos o involucrar a cientos de ellos. Sin embargo, al igual que el proceso de pasar una carta o un paquete de mano en mano, cada transacción se realiza entre solo dos equipos a la vez. Para que esta comunicación sea efectiva, ambos equipos deben conocer de antemano cómo se espera que se comuniquen. 
 
@@ -239,7 +239,7 @@
           .row.col-xl-11.m-auto.mt-4(titulo="Capa de internet")
             .col-lg-7.mb-4.mb-lg-0
               h5(style="color:#8722E2;") Capa de internet
-              p La capa de internet (también denominada capa de red), es la capa encargada de controlar el movimiento (envío y recepción) de los paquetes alrededor de la red 
+              p La capa de internet (también denominada capa de red), es la capa encargada de controlar el movimiento (envío y recepción) de los paquetes alrededor de la red.
             .col-lg-5
               figure.m-auto.col-12.col-md-10.col-lg-12
                 img(src="@/assets/curso/tema1/21.svg")
@@ -430,7 +430,7 @@
     .row(style="position:relative;")
       .col(style="place-self:center;" data-aos="fade-right")
         .p-3(style="background-color:#E8EEFE;")
-          p.mb-0 El cliente web es una aplicación ejecutable, usualmente preinstalada en el dispositivo del usuario, que facilita el acceso a internet. Este cliente es capaz de mostrar y solicitar documentos sobre una red, siendo así responsable de la capa de presentación. Los clientes web son dispositivos de usuarios conectados a internet (por ejemplo, un ordenador conectado a la red Wi-Fi o un teléfono conectado a la red de telefonía móvil) y el software disponible que permite acceder a internet en dichos dispositivos (normalmente, un navegador web como Firefox o Chrome). 
+          p.mb-0 El cliente web es una aplicación ejecutable, usualmente preinstalada en el dispositivo del usuario, que facilita el acceso a internet. Este cliente es capaz de mostrar y solicitar documentos sobre una red, siendo así responsable de la capa de presentación. Los clientes web son dispositivos de usuarios conectados a internet (por ejemplo, un ordenador conectado a la red Wi-Fi o un teléfono conectado a la red de telefonía móvil) y el #[em software] disponible que permite acceder a internet en dichos dispositivos (normalmente, un navegador web como Firefox o Chrome). 
       .col-auto.d-none.d-md-block(style="place-self:center;" data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema1/30.svg")
@@ -467,14 +467,14 @@
             figure
               img(src="@/assets/curso/tema1/33.svg")
           .col(style="place-self:center;")
-            p.mb-0 Se inicia con un ejemplo en el que se tiene al cliente A, conforme se presenta en el esquema anterior. Este cliente, que es una computadora o un ordenador de escritorio, cuenta con un explorador web instalado. El usuario, Pepito Pérez, necesita ingresar a Facebook. Para acceder a la red social, es necesario registrar las credenciales, como el login y la contraseña. Al hacer clic en iniciar sesión, se genera inmediatamente una petición que viaja desde el cliente hasta el servidor, tal como se ilustra en el esquema de la arquitectura.  
+            p.mb-0 Se inicia con un ejemplo en el que se tiene al cliente A, conforme se presenta en el esquema anterior. Este cliente, que es una computadora o un ordenador de escritorio, cuenta con un explorador web instalado. El usuario, Pepito Pérez, necesita ingresar a Facebook. Para acceder a la red social, es necesario registrar las credenciales, como el #[em login] y la contraseña. Al hacer clic en iniciar sesión, se genera inmediatamente una petición que viaja desde el cliente hasta el servidor, tal como se ilustra en el esquema de la arquitectura.  
       
     p.mt-4(data-aos="fade-right") El servidor, por su parte, procesa los datos de Pepito y verifica la información con otros servidores y bases de datos, como se observa en la figura. Dependiendo de si la validación de los datos es afirmativa o no, el servidor enviará una respuesta al usuario, permitiéndole o negándole el acceso a su espacio en la red social. Esta respuesta del servidor se transmite en un lenguaje y con recursos que son interpretados y manejados por el explorador web para ser mostrados en pantalla. Esto indica que existen tecnologías tanto del lado del cliente como del lado del servidor, por lo que el servidor, además de procesar los datos, debe responder en el formato o lenguaje adecuado para que el cliente pueda interpretarlo correctamente. 
 
     .col-xl-4.col-lg-6.col-lg-10.mt-4.m-auto
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
         h5 Figura 6.
-        span Cuadro de login y password de Facebook 
+        span Cuadro de #[em login] y #[em password] de Facebook 
       figure(data-aos="zoom-in-up")
         img(src="@/assets/curso/tema1/34.svg")
     
@@ -514,7 +514,7 @@
                 img(src="@/assets/curso/tema1/38.svg" style="max-width:250px;display:inline;")
             .tarjeta-flip__contenido.p-4(style="background-color:#3A1D71;")
               h5.fw-bold.text-center.mt-4(style="color:#00FFDF;") ¿Cómo se localiza la información?
-              p.mt-5.text-white.mb-5 La información se localiza mediante la dirección URL, la cual se compone de tres partes: primero el protocolo, segundo la ruta del servidor y tercero el dominio. La estructura queda de la siguiente forma: #[span(style="color:#F0C518 !important;") http://rutadelservidor/ubicacion/dominio]. Esta estructura asegura que el navegador pueda identificar y acceder a la ubicación exacta del recurso solicitado en la web
+              p.mt-5.text-white.mb-5 La información se localiza mediante la dirección URL, la cual se compone de tres partes: primero el protocolo, segundo la ruta del servidor y tercero el dominio. La estructura queda de la siguiente forma: #[span(style="color:#F0C518 !important;") http://rutadelservidor/ubicacion/dominio]. Esta estructura asegura que el navegador pueda identificar y acceder a la ubicación exacta del recurso solicitado en la web.
 
 
         

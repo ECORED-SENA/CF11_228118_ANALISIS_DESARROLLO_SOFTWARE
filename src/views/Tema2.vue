@@ -30,9 +30,9 @@
     Separador
 
     .titulo-segundo(data-aos="flip-up")
-      h2#t_2_1 2.1 Tecnologías del front-end 
+      h2#t_2_1 2.1 Tecnologías del #[em front-end] 
     
-    p(data-aos="fade-right") Las tecnologías de front-end se utilizan para el desarrollo del "lado cliente" de un sitio web o aplicación. Estas tecnologías son responsables de desarrollar los componentes interactivos y producir los elementos visuales con los que los usuarios interactúan, como colores, estilos de texto, imágenes, botones y menús de navegación, entre otros objetos interactivos. Estas tecnologías y lenguajes están implementados en los diferentes navegadores, facilitando así su uso y compatibilidad. 
+    p(data-aos="fade-right") Las tecnologías de #[em front-end] se utilizan para el desarrollo del "lado cliente" de un sitio web o aplicación. Estas tecnologías son responsables de desarrollar los componentes interactivos y producir los elementos visuales con los que los usuarios interactúan, como colores, estilos de texto, imágenes, botones y menús de navegación, entre otros objetos interactivos. Estas tecnologías y lenguajes están implementados en los diferentes navegadores, facilitando así su uso y compatibilidad. 
 
     .cont_decorativo.mb-4.mt-5(data-aos="flip-up" style="max-width:fit-content;position:relative;")
       .row
@@ -45,7 +45,7 @@
     .row(style="position:relative;")
       .col(style="place-self:center;" data-aos="fade-right")
         .p-3(style="background-color:#E8EEFE;")
-          p.mb-0 HTML, abreviatura de Hyper Text Markup Language, es una de las tecnologías esenciales para el desarrollo de todo tipo de aplicaciones web. Proporciona la estructura base para una página web. El código HTML garantiza que el contenido de un sitio web esté adecuadamente formateado y estructurado, permitiendo que cada navegador de Internet muestre el contenido como está previsto. Sin HTML, los navegadores no podrían mostrar texto, cargar imágenes ni otros elementos esenciales. 
+          p.mb-0 HTML, abreviatura de #[em Hyper Text Markup Language], es una de las tecnologías esenciales para el desarrollo de todo tipo de aplicaciones web. Proporciona la estructura base para una página web. El código HTML garantiza que el contenido de un sitio web esté adecuadamente formateado y estructurado, permitiendo que cada navegador de Internet muestre el contenido como está previsto. Sin HTML, los navegadores no podrían mostrar texto, cargar imágenes ni otros elementos esenciales. 
       .col-auto.d-none.d-md-block(style="place-self:center;" data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema2/4.svg")
@@ -57,7 +57,7 @@
             figure
               img(src="@/assets/curso/tema2/5.svg")
           .col(style="place-self:center;")
-            p.mb-0 HTML5, la versión más reciente de HTML, incluye un conjunto más amplio de tecnologías que permiten a los sitios web y a las aplicaciones ofrecer más diversidad y potencia. Este conjunto es conocido como HTML5 y ofrece una gran variedad de recursos, incluyendo librerías, plugins y APIS que se pueden utilizar junto con lenguajes de programación como JavaScript para crear sitios web más interactivos y dinámicos. 
+            p.mb-0 HTML5, la versión más reciente de HTML, incluye un conjunto más amplio de tecnologías que permiten a los sitios web y a las aplicaciones ofrecer más diversidad y potencia. Este conjunto es conocido como HTML5 y ofrece una gran variedad de recursos, incluyendo librerías, #[em plugins] y APIS que se pueden utilizar junto con lenguajes de programación como JavaScript para crear sitios web más interactivos y dinámicos. 
     
     .cont_2_2.mt-5.pb-4
       p.fw-bold(data-aos="fade-right") Algunas de las tecnologías más utilizadas en HTML5 incluyen: 
@@ -68,9 +68,9 @@
               p Es un elemento HTML5 que se utiliza para dibujar imágenes y formas con el fin de manipularlas. También se puede utilizar para casos como gráficos y animaciones de juegos. 
             .row.col-xl-11.m-auto(titulo="Almacenamiento web")
               p Se utiliza para almacenar información directamente en el navegador. Algunos ejemplos de esto serían: almacenar la información de inicio de sesión del usuario y guardar las preferencias del usuario para un sitio web. 
-            .row.col-xl-11.m-auto(titulo="WebWorkers ")
-              p Esta tecnología habilita un script que sigue ejecutándose en segundo plano cuando se abre una página web y se usa principalmente en sitios web con capacidades sin conexión. Hace que las páginas estén disponibles sin conexión y permite el uso de notificaciones como web Push. Puede enviar estas notificaciones incluso cuando su navegador no está abierto. 
-            .row.col-xl-11.m-auto(titulo="WebSockets ")
+            .row.col-xl-11.m-auto(titulo="<em>WebWorkers</em>")
+              p Esta tecnología habilita un #[em script] que sigue ejecutándose en segundo plano cuando se abre una página web y se usa principalmente en sitios web con capacidades sin conexión. Hace que las páginas estén disponibles sin conexión y permite el uso de notificaciones como web #[em Push]. Puede enviar estas notificaciones incluso cuando su navegador no está abierto. 
+            .row.col-xl-11.m-auto(titulo="<em>WebSockets</em>")
               p Permite una conexión bidireccional persistente entre el usuario y el servidor. Los casos de uso más comunes incluyen chats y notificaciones en aplicaciones web. 
         .col-lg-5(data-aos="fade-left")
           figure.m-auto.col-9.col-md-8.col-lg-12
@@ -95,11 +95,11 @@
     .row.mt-4
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row.col-xl-11.m-auto(titulo="Cascading")
+          .row.col-xl-11.m-auto(titulo="<em>Cascading</em>")
             p Se refiere a que los estilos aplicados a los elementos de una página web se propagan a los elementos contenidos en estos, aplicándose en cascada.
-          .row.col-xl-11.m-auto(titulo="Style")
+          .row.col-xl-11.m-auto(titulo="<em>Style</em>")
             p A través de la tecnología CSS, se aplican estilos visuales a los distintos elementos de la página web. 
-          .row.col-xl-11.m-auto(titulo="Sheets")
+          .row.col-xl-11.m-auto(titulo="<em>Sheets</em>")
             p Traducido como hojas, porque los estilos de una página web generalmente se añaden en archivos separados. Estos archivos deben tener la extensión .css.
       .col-lg-5(data-aos="fade-left")
         figure.m-auto.col-9.col-md-8.col-lg-12
@@ -131,7 +131,7 @@
         .col(style="place-self:center;")
           p.mb-0 JavaScript es el lenguaje de programación encargado de dotar de mayor interactividad y dinamismo a las páginas web. Cuando JavaScript se ejecuta en el navegador, no necesita de un compilador. El navegador lee directamente el código, sin necesidad de terceros. Por tanto, se le reconoce como uno de los tres lenguajes nativos de la web junto a HTML (contenido y su estructura) y a CSS (diseño del contenido y su estructura). “ (Ramos, 2020). 
     
-    p.mt-4(data-aos="fade-right") Además, aunque JavaScript es más conocido como un lenguaje de scripting para páginas web, también se utiliza en muchos entornos fuera del navegador, como en Node.js, Apache CouchDB y Adobe Acrobat. 
+    p.mt-4(data-aos="fade-right") Además, aunque JavaScript es más conocido como un lenguaje de #[em scripting] para páginas web, también se utiliza en muchos entornos fuera del navegador, como en Node.js, Apache CouchDB y Adobe Acrobat. 
 
     .col-xl-10.m-auto.mt-4
       .bloque1.bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mt-4(data-aos="fade-up")
@@ -145,14 +145,14 @@
 
     figure.mt-4(data-aos="zoom-in-up")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/WNPTBznJEEw" title="Frameworks del Front-end" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     Separador
 
     .titulo-segundo(data-aos="flip-up")
-      h2#t_2_3 2.2 Tecnologías del #[em back-end]
+      h2#t_2_2 2.2 Tecnologías del #[em back-end]
     
-    p(data-aos="fade-right") Las tecnologías del #[em back-end] se refieren a aquellas utilizadas en el lado del servidor. El servidor emplea estas tecnologías para gestionar y procesar las diferentes peticiones de información que recibe. Además, realiza la gestión de las bases de datos alojadas en el mismo. Una vez que la información es procesada, se envía de vuelta al dispositivo del usuario para que sea visualizada a través de las tecnologías front-end. Entre las tecnologías de #[em back-end] más conocidas y utilizadas se encuentran PHP, Java, .NET, Python y MySQL. Estas herramientas son esenciales para el desarrollo y la operación efectiva de aplicaciones web, ya que permiten la creación de funcionalidades complejas y manejo de grandes volúmenes de datos.
+    p(data-aos="fade-right") Las tecnologías del #[em back-end] se refieren a aquellas utilizadas en el lado del servidor. El servidor emplea estas tecnologías para gestionar y procesar las diferentes peticiones de información que recibe. Además, realiza la gestión de las bases de datos alojadas en el mismo. Una vez que la información es procesada, se envía de vuelta al dispositivo del usuario para que sea visualizada a través de las tecnologías #[em front-end]. Entre las tecnologías de #[em back-end] más conocidas y utilizadas se encuentran PHP, Java, .NET, Python y MySQL. Estas herramientas son esenciales para el desarrollo y la operación efectiva de aplicaciones web, ya que permiten la creación de funcionalidades complejas y manejo de grandes volúmenes de datos.
     
     .cont_decorativo.mb-4.mt-5(data-aos="flip-up" style="max-width:fit-content;position:relative;")
       .row
@@ -165,7 +165,7 @@
     .row(style="position:relative;")
       .col(style="place-self:center;" data-aos="fade-right")
         .p-3(style="background-color:#E8EEFE;")
-          p.mb-0 En el lado del servidor, el back-end es fundamental para el funcionamiento de un sitio web, ya que es en esta instancia donde se realizan los procesos más robustos de manejo de información. Por ello, se requieren lenguajes de programación que ofrezcan una diversidad de funciones para el tratamiento adecuado de esos datos. Además, los programas escritos por desarrolladores de back-end se utilizan para comunicar la información desde la base de datos hasta el navegador. La empresa de base tecnológica Third Rock Techkno señala que: 
+          p.mb-0 En el lado del servidor, el #[em back-end] es fundamental para el funcionamiento de un sitio web, ya que es en esta instancia donde se realizan los procesos más robustos de manejo de información. Por ello, se requieren lenguajes de programación que ofrezcan una diversidad de funciones para el tratamiento adecuado de esos datos. Además, los programas escritos por desarrolladores de #[em back-end] se utilizan para comunicar la información desde la base de datos hasta el navegador. La empresa de base tecnológica Third Rock Techkno señala que: 
       .col-auto.d-none.d-md-block(style="place-self:center;" data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema2/13.svg")
@@ -175,7 +175,7 @@
         div
           i.fas.fa-quote-left.pe-2(style="color:#8722E2;font-size:28px;")
         div
-          h5.mt-3 En 2021, el desarrollo de Back-End será aún más vital a medida que las empresas busquen expandirse a un ritmo rápido”. Esta empresa también destaca los lenguajes de programación del servidor que están en tendencia, subrayando la importancia de mantenerse actualizado con las tecnologías que lideran el mercado.
+          h5.mt-3 En 2021, el desarrollo de #[em Back-End] será aún más vital a medida que las empresas busquen expandirse a un ritmo rápido”. Esta empresa también destaca los lenguajes de programación del servidor que están en tendencia, subrayando la importancia de mantenerse actualizado con las tecnologías que lideran el mercado. (Third Rock Techkno, 2021)
           .d-flex.justify-space-between
             p.w-100 (Third Rock Techkno, 2021)
             i.fas.fa-quote-right(style="color:#8722E2;font-size:28px;")
@@ -187,12 +187,12 @@
           .h-100.p-4(style="background-color:#F2E5FD;border-radius:23px;")
             figure.text-center
               img(src="@/assets/curso/tema2/14.svg" style="max-width:120px;display:inline;")
-            p.mt-4 Este lenguaje tiene su propio entorno de ejecución. Es popular entre la comunidad de desarrolladores y se considera uno de los lenguajes más eficientes en la literatura de desarrollo de software. Se prefiere para desarrollar aplicaciones de alta gama para el desarrollo de sitios web, así como para la transmisión de video. 
+            p.mt-4 Este lenguaje tiene su propio entorno de ejecución. Es popular entre la comunidad de desarrolladores y se considera uno de los lenguajes más eficientes en la literatura de desarrollo de #[em software]. Se prefiere para desarrollar aplicaciones de alta gama para el desarrollo de sitios web, así como para la transmisión de video. 
         .col-md-6.col-lg.mb-4.mb-lg-0(data-aos="zoom-in")
           .h-100.p-4(style="background-color:#F2E5FD;border-radius:23px;")
             figure.text-center
               img(src="@/assets/curso/tema2/15.svg" style="max-width:120px;display:inline;")
-            p.mt-4 Se presenta como un lenguaje de programación back-end para Java Virtual Machine. Es muy preferido para el desarrollo de Android, contando con el soporte oficial de Google. Según Third Rock Techkno, tiene una curva de aprendizaje muy fácil, es menos propenso a fallos y facilita la detección de errores. 
+            p.mt-4 Se presenta como un lenguaje de programación #[em back-end] para Java Virtual Machine. Es muy preferido para el desarrollo de Android, contando con el soporte oficial de Google. Según Third Rock Techkno, tiene una curva de aprendizaje muy fácil, es menos propenso a fallos y facilita la detección de errores. 
         .col-md-6.col-lg.mb-4.mb-lg-0(data-aos="zoom-in")
           .h-100.p-4(style="background-color:#F2E5FD;border-radius:23px;")
             figure.text-center
@@ -202,7 +202,7 @@
           .h-100.p-4(style="background-color:#F2E5FD;border-radius:23px;")
             figure.text-center
               img(src="@/assets/curso/tema2/17.svg" style="max-width:120px;display:inline;")
-            p.mt-4 Es un lenguaje de programación de back-end muy flexible con características impecables. Tiene una comunidad en constante actualización y numerosos frameworks basados en este lenguaje. Se considera el futuro del desarrollo back-end en 2021, destacando por una sintaxis muy expresiva que brinda libertad creativa a los desarrolladores. 
+            p.mt-4 Es un lenguaje de programación de #[em back-end] muy flexible con características impecables. Tiene una comunidad en constante actualización y numerosos #[em frameworks] basados en este lenguaje. Se considera el futuro del desarrollo #[em back-end] en 2021, destacando por una sintaxis muy expresiva que brinda libertad creativa a los desarrolladores. 
     
       .cont_decorativo.mb-4.mt-5(data-aos="flip-up" style="max-width:fit-content;position:relative;")
         .row
@@ -210,12 +210,12 @@
             figure
               img(src="@/assets/curso/tema1/3.svg")
           .col.pe-4(style="place-self:end;")
-            h3.text-white.mb-0.pb-2 Frameworks del back-end 
+            h3.text-white.mb-0.pb-2 #[em Frameworks] del #[em back-end] 
     
       .row
         .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
-          p Al igual que los frameworks del front-end, los frameworks del back-end proporcionan a los desarrolladores herramientas para realizar su trabajo de manera más eficiente, segura y robusta. Estos frameworks ofrecen estructuras predefinidas y componentes reutilizables que aceleran el proceso de desarrollo, ayudando a manejar aspectos complejos como la conexión con bases de datos, la gestión de sesiones, el procesamiento de transacciones y la seguridad. 
-          p Una de las empresas de desarrollo web más destacadas de Canadá, Monocubed, señala la importancia de estos frameworks en el desarrollo actual. Según Mistry (2021), los frameworks de back-end que están marcando tendencia facilitan significativamente la creación de aplicaciones complejas y escalables.  Estos frameworks no solo mejoran la eficiencia del desarrollo sino que también aseguran que las aplicaciones puedan adaptarse y responder a las exigencias del mercado moderno. 
+          p Al igual que los #[em frameworks] del #[em front-end], los #[em frameworks] del #[em back-end] proporcionan a los desarrolladores herramientas para realizar su trabajo de manera más eficiente, segura y robusta. Estos frameworks ofrecen estructuras predefinidas y componentes reutilizables que aceleran el proceso de desarrollo, ayudando a manejar aspectos complejos como la conexión con bases de datos, la gestión de sesiones, el procesamiento de transacciones y la seguridad. 
+          p Una de las empresas de desarrollo web más destacadas de Canadá, Monocubed, señala la importancia de estos #[em frameworks] en el desarrollo actual. Según Mistry (2021), los #[em frameworks] de #[em back-end] que están marcando tendencia facilitan significativamente la creación de aplicaciones complejas y escalables.  Estos #[em frameworks] no solo mejoran la eficiencia del desarrollo sino que también aseguran que las aplicaciones puedan adaptarse y responder a las exigencias del mercado moderno. 
         .col-lg-4(data-aos="fade-left")
           figure.m-auto.col-9.col-md-8.col-lg-12
             img(src="@/assets/curso/tema2/18.png")
@@ -225,7 +225,7 @@
           .h-100.p-4(style="background-color:#F2E5FD;border-radius:23px;")
             figure.text-center
               img(src="@/assets/curso/tema2/19.svg" style="max-width:120px;display:inline;")
-            p.mt-4 Este framework tiene una excelente estructura y es capaz de adaptarse a grupos grandes debido a la efectividad de sus recursos, como la llamada toolbox. Basado en PHP, sigue una sintaxis elegante y expresiva. Permite a los desarrolladores web ser flexibles y creativos, manejando los detalles de fondo a diferencia de otros frameworks. 
+            p.mt-4 Este framework tiene una excelente estructura y es capaz de adaptarse a grupos grandes debido a la efectividad de sus recursos, como la llamada #[em toolbox]. Basado en PHP, sigue una sintaxis elegante y expresiva. Permite a los desarrolladores web ser flexibles y creativos, manejando los detalles de fondo a diferencia de otros #[em frameworks]. 
         .col-md-8.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in")
           .h-100.p-4(style="background-color:#F2E5FD;border-radius:23px;")
             figure.text-center
@@ -318,6 +318,7 @@ export default {
   left: -15%
   height: 110%
   bottom: -50px
+  top: 0
   background: rgb(255,255,255)
   background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(248,239,255,1) 100%)
 </style>

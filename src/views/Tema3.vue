@@ -8,7 +8,7 @@
       h1 Introducción a la arquitectura orientada a servicios
     
     .cont_3_1
-      p(data-aos="fade-right" style="position:relative;") Hasta ahora, se han explorado las tecnologías para el desarrollo web, pero es crucial entender que, además de crear aplicaciones, también es posible desarrollar servicios. Para ello, es esencial abordar el concepto de la Arquitectura Orientada a Servicios, conocida como SOA. SOA es un tipo de arquitectura de software que se fundamenta en la integración de aplicaciones a través de servicios. Según IBM, SOA se define como: 
+      p(data-aos="fade-right" style="position:relative;") Hasta ahora, se han explorado las tecnologías para el desarrollo web, pero es crucial entender que, además de crear aplicaciones, también es posible desarrollar servicios. Para ello, es esencial abordar el concepto de la Arquitectura Orientada a Servicios, conocida como SOA. SOA es un tipo de arquitectura de #[em software] que se fundamenta en la integración de aplicaciones a través de servicios. Según IBM, SOA se define como: 
 
       .col-xl-10.m-auto.mt-4(data-aos="zoom-in")
         .p-4(style="background-color:#E3DFEB;border-radius:8px;")
@@ -17,9 +17,9 @@
               figure
                 img(src="@/assets/curso/tema3/1.svg")
             .col(style="place-self:center;")
-              p.mb-0 …una manera de hacer que los componentes de software sean reutilizables mediante interfaces de servicio. Estas interfaces utilizan estándares de comunicación que les permiten incorporarse rápidamente a nuevas aplicaciones sin necesidad de una integración profunda cada vez…” (IBM, 2021).
+              p.mb-0 …una manera de hacer que los componentes de #[em software] sean reutilizables mediante interfaces de servicio. Estas interfaces utilizan estándares de comunicación que les permiten incorporarse rápidamente a nuevas aplicaciones sin necesidad de una integración profunda cada vez…” (IBM, 2021).
       
-      p.mt-4(data-aos="fade-right" style="position:relative;") En este contexto, es destacable el desarrollo de software en sí, la reutilización de componentes y la comunicación con distintas aplicaciones sin la necesidad de crear desarrollos a medida para cada aplicación con la que se desee conectar. De aquí surge el concepto de servicio y de interoperabilidad. 
+      p.mt-4(data-aos="fade-right" style="position:relative;") En este contexto, es destacable el desarrollo de #[em software] en sí, la reutilización de componentes y la comunicación con distintas aplicaciones sin la necesidad de crear desarrollos a medida para cada aplicación con la que se desee conectar. De aquí surge el concepto de servicio y de interoperabilidad. 
 
       .col-xl-10.m-auto.mt-4
         .bloque1.bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mt-4(data-aos="fade-up")

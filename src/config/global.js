@@ -133,7 +133,7 @@ export default {
     {
       tema: 'La internet y la web',
       referencia:
-        'Aaron. (2009, 19 febrero). How the internet Works in 5 Minutes [Video]. YouTube.',
+        'Aaron. (2009, 19 febrero). <em>How the internet Works in 5 Minutes</em> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=7_LPdttKXPc',
     },
@@ -147,7 +147,7 @@ export default {
     {
       tema: 'Introducción a las tecnologías para el desarrollo web ',
       referencia:
-        'Code War. (2020, 17 mayo). 2. Front-end y backend, en qué consisten, sus tecnologías, APIs - Aprende a programar sistemas web [Video]. YouTube.  ',
+        'Code War. (2020, 17 mayo). 2. <em>Front-end</em> y <em>backend</em>, en qué consisten, sus tecnologías, APIs - Aprende a programar sistemas web [Video]. YouTube.  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=rQX8D4dy1PM ',
     },
@@ -259,7 +259,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -318,6 +318,12 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
+        {
+          nombre: 'Luis Gabriel Urueta Álvarez',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Margarita Marcela Medrano Gómez ',
           cargo: 'Evaluador para Contenidos Inclusivos y Accesibles ',
