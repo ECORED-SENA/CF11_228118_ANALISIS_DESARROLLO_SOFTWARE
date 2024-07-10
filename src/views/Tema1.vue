@@ -67,21 +67,21 @@
                 p La mayoría de las computadoras de hoy en día pueden soportar cualquiera de este tipo de conexiones. A continuación, se presenta un ejemplo de conexión vía Ethernet entre dos equipos. 
               .col-lg-5
                 figure.m-auto.col-12.col-md-9.col-lg-12
-                  img(src='@/assets/curso/tema1/7.svg')
+                  img(src='@/assets/curso/tema1/7.svg' alt="Receiving objects:   0% (5/552), 5.51 MiB | 368.00 KiB/s")
             .row
               .col-lg-7.mb-4.mb-lg-0
                 h5(style="color:#8722E2;") Ejemplo de conexión entre diez equipos o terminales 
                 p No se puede pensar que la red solo se limita a dos ordenadores, se pueden conectar tantos como se deseen, aunque con mayor complejidad. Por ejemplo, si se quieren conectar 10 computadoras, se necesitarían 45 cables y unos nueve conectores por computador, como se alcanza a apreciar en la siguiente figura. 
               .col-lg-5
                 figure.m-auto.col-12.col-md-9.col-lg-12
-                  img(src='@/assets/curso/tema1/8.svg')
+                  img(src='@/assets/curso/tema1/8.svg' alt="Ejemplo de conexión entre diez equipos o terminales.")
             .row
               .col-lg-7.mb-4.mb-lg-0
                 h5(style="color:#8722E2;") Ejemplo de conexión de diez equipos con un enrutador 
                 p Por ejemplo, para que el terminal B reciba un mensaje desde el terminal A, este debe enviarlo primero al #[em router], quien a su vez lo remite al ordenador B asegurándose que dicho mensaje no sea entregado a otro ordenador. Una vez incorporado un enrutador al sistema, la red de diez terminales solo requiere diez cables: un conector para cada ordenador y un enrutador con 10 conectores, como se aprecia en la siguiente gráfica. 
               .col-lg-5
                 figure.m-auto.col-12.col-md-9.col-lg-12
-                  img(src='@/assets/curso/tema1/9.svg')
+                  img(src='@/assets/curso/tema1/9.svg' alt="Ejemplo de conexión de diez equipos con un enrutador.")
       
       .col-xl-10.m-auto.mt-5(data-aos="zoom-in-up")
         .p-4(style="background-color:#E3DFEB;border-radius:8px;")
@@ -201,7 +201,7 @@
           img(src='@/assets/curso/tema1/19.svg' style="max-width:120px;top:30px;")
           .tarjeta.color-primario.mt-4(style="background-color:#E8EEFE;border-radius:0px;width:100%;")
             .p-4.text-center
-              h5(style="color:#12263F !important;") ¿Cómo sabe un equipo si su mensaje se ha transmitido se ha transmitido correctamente?
+              h5(style="color:#12263F !important;") ¿Cómo sabe un equipo si su mensaje se ha transmitido correctamente?
       .col-md-6.col-lg.mb-4.mb-lg-0(data-aos="zoom-in")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/19.svg' style="max-width:120px;top:30px;")
@@ -356,7 +356,7 @@
     .row(style="position:relative;")
       .col(style="place-self:center;" data-aos="fade-right")
         .p-3(style="background-color:#E8EEFE;")
-          p.mb-0 Los DNS funcionan como una libreta de direcciones de sitios web. Cuando  se introduce una dirección web en el navegador, esta consulta los DNS antes de recuperar el sitio web. El navegador necesita determinar en qué servidor se aloja el sitio web para enviar los mensajes HTTP correctamente. Esto es análogo a buscar la dirección de una tienda para poder visitarla.  
+          p.mb-0 Los DNS funcionan como una libreta de direcciones de sitios web. Cuando  se introduce una dirección web en el navegador, esta consulta los DNS antes de recuperar el sitio web. El navegador necesita determinar en qué servidor se aloja el sitio web para enviar los mensajes HTTP correctamente. Significa que es análogo, el buscar la dirección de una tienda para poder visitarla.  
       .col-auto.d-none.d-md-block(style="place-self:center;" data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema1/25.svg")

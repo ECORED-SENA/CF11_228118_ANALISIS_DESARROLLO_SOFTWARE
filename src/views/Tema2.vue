@@ -23,7 +23,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/3.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 …Los modelos y tecnologías de desarrollo web han evolucionado significativamente en la última década. Existen multitud de aplicaciones, #[em frameworks], librerías, arquitecturas y sistemas de publicación que en sus diferentes versiones reciben actualizaciones y mejoras continuas. El progreso también se ha observado en la administración de sistemas, los servicios de alojamiento, técnicas de escalabilidad, monitorización y gestión de centros de procesos de datos. Esta evolución ha propiciado la convergencia de una gran cantidad de tecnologías, herramientas y estilos arquitectónicos para el desarrollo de sitios web y aplicaciones.” (Ingenio Virtual, 2018). 
+            p.mb-0 …Los modelos y tecnologías de desarrollo web han evolucionado significativamente en la última década. Existen multitud de aplicaciones, #[em frameworks], librerías, arquitecturas y sistemas de publicación que en sus diferentes versiones reciben actualizaciones y mejoras continuas. El progreso también se ha observado en la administración de sistemas, los servicios de alojamiento, técnicas de escalabilidad, monitorización y gestión de centros de procesos de datos. Esta evolución ha propiciado la convergencia de una gran cantidad de tecnologías, herramientas y estilos arquitectónicos para el desarrollo de sitios web y aplicaciones. (Ingenio Virtual, 2018). 
     
     p.mt-4(data-aos="fade-right") Esta tendencia subraya la importancia de mantenerse actualizado con las últimas tecnologías y enfoques en el campo del desarrollo web, para poder aprovechar al máximo las capacidades que ofrecen estas herramientas modernas. 
 
@@ -68,9 +68,9 @@
               p Es un elemento HTML5 que se utiliza para dibujar imágenes y formas con el fin de manipularlas. También se puede utilizar para casos como gráficos y animaciones de juegos. 
             .row.col-xl-11.m-auto(titulo="Almacenamiento web")
               p Se utiliza para almacenar información directamente en el navegador. Algunos ejemplos de esto serían: almacenar la información de inicio de sesión del usuario y guardar las preferencias del usuario para un sitio web. 
-            .row.col-xl-11.m-auto(titulo="<em>WebWorkers</em>")
+            .row.col-xl-11.m-auto(titulo="<em>Web Workers</em>")
               p Esta tecnología habilita un #[em script] que sigue ejecutándose en segundo plano cuando se abre una página web y se usa principalmente en sitios web con capacidades sin conexión. Hace que las páginas estén disponibles sin conexión y permite el uso de notificaciones como web #[em Push]. Puede enviar estas notificaciones incluso cuando su navegador no está abierto. 
-            .row.col-xl-11.m-auto(titulo="<em>WebSockets</em>")
+            .row.col-xl-11.m-auto(titulo="<em>Web Sockets</em>")
               p Permite una conexión bidireccional persistente entre el usuario y el servidor. Los casos de uso más comunes incluyen chats y notificaciones en aplicaciones web. 
         .col-lg-5(data-aos="fade-left")
           figure.m-auto.col-9.col-md-8.col-lg-12
