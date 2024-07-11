@@ -67,7 +67,7 @@
                 p La mayoría de las computadoras de hoy en día pueden soportar cualquiera de este tipo de conexiones. A continuación, se presenta un ejemplo de conexión vía Ethernet entre dos equipos. 
               .col-lg-5
                 figure.m-auto.col-12.col-md-9.col-lg-12
-                  img(src='@/assets/curso/tema1/7.svg' alt="Receiving objects:   0% (5/552), 5.51 MiB | 368.00 KiB/s")
+                  img(src='@/assets/curso/tema1/7.svg' alt="Ejemplo de conexión Ethernet entre dos equipos.")
             .row
               .col-lg-7.mb-4.mb-lg-0
                 h5(style="color:#8722E2;") Ejemplo de conexión entre diez equipos o terminales 

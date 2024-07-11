@@ -23,16 +23,16 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/3.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 …Los modelos y tecnologías de desarrollo web han evolucionado significativamente en la última década. Existen multitud de aplicaciones, #[em frameworks], librerías, arquitecturas y sistemas de publicación que en sus diferentes versiones reciben actualizaciones y mejoras continuas. El progreso también se ha observado en la administración de sistemas, los servicios de alojamiento, técnicas de escalabilidad, monitorización y gestión de centros de procesos de datos. Esta evolución ha propiciado la convergencia de una gran cantidad de tecnologías, herramientas y estilos arquitectónicos para el desarrollo de sitios web y aplicaciones. (Ingenio Virtual, 2018). 
+            p.mb-0 ... Los modelos y tecnologías de desarrollo web han evolucionado significativamente en la última década. Existen multitud de aplicaciones, #[em frameworks], librerías, arquitecturas y sistemas de publicación que en sus diferentes versiones reciben actualizaciones y mejoras continuas. El progreso también se ha observado en la administración de sistemas, los servicios de alojamiento, técnicas de escalabilidad, monitorización y gestión de centros de procesos de datos. Esta evolución ha propiciado la convergencia de una gran cantidad de tecnologías, herramientas y estilos arquitectónicos para el desarrollo de sitios web y aplicaciones. (Ingenio Virtual, 2018). 
     
     p.mt-4(data-aos="fade-right") Esta tendencia subraya la importancia de mantenerse actualizado con las últimas tecnologías y enfoques en el campo del desarrollo web, para poder aprovechar al máximo las capacidades que ofrecen estas herramientas modernas. 
 
     Separador
 
     .titulo-segundo(data-aos="flip-up")
-      h2#t_2_1 2.1 Tecnologías del #[em front-end] 
+      h2#t_2_1 2.1 Tecnologías del #[em frontend] 
     
-    p(data-aos="fade-right") Las tecnologías de #[em front-end] se utilizan para el desarrollo del "lado cliente" de un sitio web o aplicación. Estas tecnologías son responsables de desarrollar los componentes interactivos y producir los elementos visuales con los que los usuarios interactúan, como colores, estilos de texto, imágenes, botones y menús de navegación, entre otros objetos interactivos. Estas tecnologías y lenguajes están implementados en los diferentes navegadores, facilitando así su uso y compatibilidad. 
+    p(data-aos="fade-right") Las tecnologías de #[em frontend] se utilizan para el desarrollo del "lado cliente" de un sitio web o aplicación. Estas tecnologías son responsables de desarrollar los componentes interactivos y producir los elementos visuales con los que los usuarios interactúan, como colores, estilos de texto, imágenes, botones y menús de navegación, entre otros objetos interactivos. Estas tecnologías y lenguajes están implementados en los diferentes navegadores, facilitando así su uso y compatibilidad. 
 
     .cont_decorativo.mb-4.mt-5(data-aos="flip-up" style="max-width:fit-content;position:relative;")
       .row
@@ -152,7 +152,7 @@
     .titulo-segundo(data-aos="flip-up")
       h2#t_2_2 2.2 Tecnologías del #[em back-end]
     
-    p(data-aos="fade-right") Las tecnologías del #[em back-end] se refieren a aquellas utilizadas en el lado del servidor. El servidor emplea estas tecnologías para gestionar y procesar las diferentes peticiones de información que recibe. Además, realiza la gestión de las bases de datos alojadas en el mismo. Una vez que la información es procesada, se envía de vuelta al dispositivo del usuario para que sea visualizada a través de las tecnologías #[em front-end]. Entre las tecnologías de #[em back-end] más conocidas y utilizadas se encuentran PHP, Java, .NET, Python y MySQL. Estas herramientas son esenciales para el desarrollo y la operación efectiva de aplicaciones web, ya que permiten la creación de funcionalidades complejas y manejo de grandes volúmenes de datos.
+    p(data-aos="fade-right") Las tecnologías del #[em back-end] se refieren a aquellas utilizadas en el lado del servidor. El servidor emplea estas tecnologías para gestionar y procesar las diferentes peticiones de información que recibe. Además, realiza la gestión de las bases de datos alojadas en el mismo. Una vez que la información es procesada, se envía de vuelta al dispositivo del usuario para que sea visualizada a través de las tecnologías #[em frontend]. Entre las tecnologías de #[em back-end] más conocidas y utilizadas se encuentran PHP, Java, .NET, Python y MySQL. Estas herramientas son esenciales para el desarrollo y la operación efectiva de aplicaciones web, ya que permiten la creación de funcionalidades complejas y manejo de grandes volúmenes de datos.
     
     .cont_decorativo.mb-4.mt-5(data-aos="flip-up" style="max-width:fit-content;position:relative;")
       .row
@@ -214,7 +214,7 @@
     
       .row
         .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
-          p Al igual que los #[em frameworks] del #[em front-end], los #[em frameworks] del #[em back-end] proporcionan a los desarrolladores herramientas para realizar su trabajo de manera más eficiente, segura y robusta. Estos #[em frameworks] ofrecen estructuras predefinidas y componentes reutilizables que aceleran el proceso de desarrollo, ayudando a manejar aspectos complejos como la conexión con bases de datos, la gestión de sesiones, el procesamiento de transacciones y la seguridad. 
+          p Al igual que los #[em frameworks] del #[em frontend], los #[em frameworks] del #[em back-end] proporcionan a los desarrolladores herramientas para realizar su trabajo de manera más eficiente, segura y robusta. Estos #[em frameworks] ofrecen estructuras predefinidas y componentes reutilizables que aceleran el proceso de desarrollo, ayudando a manejar aspectos complejos como la conexión con bases de datos, la gestión de sesiones, el procesamiento de transacciones y la seguridad. 
           p Una de las empresas de desarrollo web más destacadas de Canadá, Monocubed, señala la importancia de estos #[em frameworks] en el desarrollo actual. Según Mistry (2021), los #[em frameworks] de #[em back-end] que están marcando tendencia facilitan significativamente la creación de aplicaciones complejas y escalables.  Estos #[em frameworks] no solo mejoran la eficiencia del desarrollo sino que también aseguran que las aplicaciones puedan adaptarse y responder a las exigencias del mercado moderno. 
         .col-lg-4(data-aos="fade-left")
           figure.m-auto.col-9.col-md-8.col-lg-12

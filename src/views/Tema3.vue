@@ -17,7 +17,7 @@
               figure
                 img(src="@/assets/curso/tema3/1.svg")
             .col(style="place-self:center;")
-              p.mb-0 …una manera de hacer que los componentes de #[em software] sean reutilizables mediante interfaces de servicio. Estas interfaces utilizan estándares de comunicación que les permiten incorporarse rápidamente a nuevas aplicaciones sin necesidad de una integración profunda cada vez  (IBM, 2021).
+              p.mb-0 ... Una manera de hacer que los componentes de #[em software] sean reutilizables mediante interfaces de servicio. Estas interfaces utilizan estándares de comunicación que les permiten incorporarse rápidamente a nuevas aplicaciones sin necesidad de una integración profunda cada vez  (IBM, 2021).
       
       p.mt-4(data-aos="fade-right" style="position:relative;") En este contexto, es destacable el desarrollo de #[em software] en sí, la reutilización de componentes y la comunicación con distintas aplicaciones sin la necesidad de crear desarrollos a medida para cada aplicación con la que se desee conectar. De aquí surge el concepto de servicio y de interoperabilidad. 
 

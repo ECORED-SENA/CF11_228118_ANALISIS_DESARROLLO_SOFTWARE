@@ -60,7 +60,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Tecnologías del <em>front-end</em>',
+            titulo: 'Tecnologías del <em>frontend</em>',
             hash: 't_2_1',
           },
           {
@@ -147,7 +147,7 @@ export default {
     {
       tema: 'Introducción a las tecnologías para el desarrollo web ',
       referencia:
-        'Code War. (2020, 17 mayo). 2. <em>Front-end</em> y <em>backend</em>, en qué consisten, sus tecnologías, APIs - Aprende a programar sistemas web [Video]. YouTube.  ',
+        'Code War. (2020, 17 mayo). 2. <em>Frontend</em> y <em>backend</em>, en qué consisten, sus tecnologías, APIs - Aprende a programar sistemas web [Video]. YouTube.  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=rQX8D4dy1PM ',
     },

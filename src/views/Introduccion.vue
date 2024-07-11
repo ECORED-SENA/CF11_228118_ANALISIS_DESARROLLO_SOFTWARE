@@ -30,7 +30,7 @@
       .p-4.mt-4(style="background-color:#3A1D71;border-radius:12px;")
         .row(data-aos="zoom-in")
           .col(style="place-self:center;")
-            p.mb-0.text-white En este componente formativo, se desarrollarán conocimientos sobre la arquitectura web y el funcionamiento de internet. También se introducirán las tecnologías para el desarrollo web, como el #[em front-end] y el #[em back-end], y la arquitectura orientada a servicios, incluyendo SOAP, REST y API-REST. 
+            p.mb-0.text-white En este componente formativo, se desarrollarán conocimientos sobre la arquitectura web y el funcionamiento de internet. También se introducirán las tecnologías para el desarrollo web, como el #[em frontend] y el #[em back-end], y la arquitectura orientada a servicios, incluyendo SOAP, REST y API-REST. 
           .col-auto.d-none.d-md-block
             figure
               img(src="@/assets/curso/intro3.svg")
