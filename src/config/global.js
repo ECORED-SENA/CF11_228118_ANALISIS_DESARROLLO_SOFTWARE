@@ -225,7 +225,7 @@ export default {
     {
       referencia:
         'Ramos, R. (2020, 18 de noviembre). ¿Qué es JavaScript y para qué sirve? Agencia de Marketing Digital.',
-      link: 'https://soyrafaramos.com/que-es-javascript-para-que-sirve/ ',
+      link: '',
     },
     {
       referencia: 'RedHat. (2021). REST vs. SOAP.',
@@ -245,8 +245,7 @@ export default {
     {
       referencia:
         'Third Rock Techkno. (2021, 24 de marzo). Top 5 picks for backend development in 2021.',
-      link:
-        'https://www.thirdrocktechkno.com/blog/top-5-picks-for-backend-development-in-2021/ ',
+      link: '',
     },
   ],
   creditos: [
